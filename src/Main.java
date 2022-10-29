@@ -15,5 +15,6 @@ public class Main {
         System.out.println("Second circle(x;y) : " + secondCircle.toString() + "\nRadius = " + secondCircle.getR());//Виводимо друге коло
         System.out.println("Is equals = " + firstCircle.equals(secondCircle));//перевіряємо кола на рівність
         System.out.println("First circle square = " + firstCircle.square());//виводимо площу першого кола
+        System.out.println();
     }
 }
